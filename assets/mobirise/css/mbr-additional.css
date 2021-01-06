@@ -1348,6 +1348,11 @@ a {
   object-fit: cover;
   display: block;
 }
+@media only screen and (max-width: 600px) {
+  .cid-sjmjL7SZEk .img-wrapper img {
+    width: 45%;
+  }
+}
 .cid-sjmjL7SZEk .card-subtitle {
   color: #0095ff;
 }
@@ -1399,6 +1404,11 @@ a {
   object-fit: cover;
   margin-left: auto;
   margin-right: auto;
+}
+@media only screen and (max-width: 600px) {
+  .cid-sjojerWfjR .img-wrapper img {
+    width: 45%;
+  }
 }
 .cid-sjojerWfjR .card-subtitle {
   color: #0095ff;
@@ -1584,6 +1594,11 @@ a {
 }
 .cid-sh6m4LGcyy .image-wrap img {
   width: 100%;
+}
+@media only screen and (max-width: 600px) {
+  .cid-sh6m4LGcyy .image-wrap img .image-wrap {
+    width: 56%;
+  }
 }
 @media (min-width: 992px) {
   .cid-sh6m4LGcyy .image-wrap img {
